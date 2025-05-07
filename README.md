@@ -7,9 +7,9 @@ Dmitry Sobolev, Python Backend Developer
 
 ### Contacts
 You can contact me on:
-- [**LinkedIn**](https://www.linkedin.com/in/marteszibellina/)
-- [**Telegram**](https://t.me/marteszibellina)
-- [**Email**](mailto:dmitry.sobolev90@yahoo.com)
+- **LinkedIn**: [Dmitry Sobolev](https://www.linkedin.com/in/marteszibellina/)
+- **Telegram**: [@marteszibellina](https://t.me/marteszibellina)
+- **Email**: [dmitry.sobolev90@yahoo.com](mailto:dmitry.sobolev90@yahoo.com)
 
 ---
 ### Skills

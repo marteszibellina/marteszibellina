@@ -2,14 +2,14 @@ _Under this sun and sky, we warmly welcome you._ 🌘✴️
 
 ```
 $ whoami
-Dmitry Sobolev, Python Backend Developer
+Dmitry Sobolev, Junior Python Developer
 ````
 
 ### Contacts
 You can contact me on:
 - **LinkedIn**: [Dmitry Sobolev](https://www.linkedin.com/in/marteszibellina/)
 - **Telegram**: [@marteszibellina](https://t.me/marteszibellina)
-- **Email**: [dmitry.sobolev90@yahoo.com](mailto:dmitry.sobolev90@yahoo.com)
+- **Email**: [Dmitry Sobolev](mailto:marteszibellina@mail.ru)
 
 ---
 ### Skills

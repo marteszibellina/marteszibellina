@@ -2,7 +2,7 @@ _Under this sun and sky, we warmly welcome you._ 🌘✴️
 
 ```
 $ whoami
-Dmitry Sobolev, Junior Python Developer
+Dmitry Sobolev, Python Developer
 ````
 
 ### Contacts
